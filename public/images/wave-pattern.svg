@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <path d="M1200,0 Q900,100 600,200 T0,400 L0,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,20 Q900,120 600,220 T0,420 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,40 Q900,140 600,240 T0,440 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,60 Q900,160 600,260 T0,460 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,80 Q900,180 600,280 T0,480 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,100 Q900,200 600,300 T0,500 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,120 Q900,220 600,320 T0,520 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,140 Q900,240 600,340 T0,540 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,160 Q900,260 600,360 T0,560 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,180 Q900,280 600,380 T0,580 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1200,200 Q900,300 600,400 T0,600 L0,0 L1200,0 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,800 Q300,700 600,600 T1200,400 L1200,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,780 Q300,680 600,580 T1200,380 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,760 Q300,660 600,560 T1200,360 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,740 Q300,640 600,540 T1200,340 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,720 Q300,620 600,520 T1200,320 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,700 Q300,600 600,500 T1200,300 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,680 Q300,580 600,480 T1200,280 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <path d="M0,660 Q300,560 600,460 T1200,260 L1200,800 L0,800 Z" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+</svg>
